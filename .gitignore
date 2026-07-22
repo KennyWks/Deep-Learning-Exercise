@@ -1,2 +1,3 @@
-env_deep-learning/
+env_dl/
 dataset/ulasan_aplikasi.csv
+latihan-klasifikasi-gambar/kaggle.json
