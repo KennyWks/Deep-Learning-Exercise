@@ -1,3 +1,9 @@
-env_dl/
+.venv/
+.venv-tf215/
+.venv-wsl/
 dataset/ulasan_aplikasi.csv
 latihan-klasifikasi-gambar/kaggle.json
+latihan-ml-hp/a185-pengembangan-ml-main.zip
+latihan-deployed-model-android
+latihan-deployed-model-browser
+latihan-deployed-model-docker
